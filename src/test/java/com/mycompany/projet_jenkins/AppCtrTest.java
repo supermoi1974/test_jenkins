@@ -41,11 +41,11 @@ public class AppCtrTest {
      */
     @Test
     public void testAdditionner1() {
-        System.out.println("Test Additionner est positif! ");
-        int valeur1 = 5;
+        System.out.println("Test Additionner est positif!!! ");
+        int valeur1 = 8;
         int valeur2 = 2;
 
-        int expectedSersult = 7;
+        int expectedSersult = 10;
 
         int realResult = AppCtr.additionner(valeur1, valeur2);
 

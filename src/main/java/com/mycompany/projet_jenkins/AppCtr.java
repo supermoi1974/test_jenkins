@@ -9,8 +9,8 @@ package com.mycompany.projet_jenkins;
  * @author sfafa
  */
 public class AppCtr {
-   int numero1;
-   int numero2;
+   int numero4;
+   int numero3;
    
    
    public static int additionner(int num1, int num2){
