@@ -41,7 +41,7 @@ public class AppCtrTest {
      */
     @Test
     public void testAdditionner1() {
-        System.out.println("Test Additionner positif ");
+        System.out.println("Test Additionner est positif! ");
         int valeur1 = 5;
         int valeur2 = 2;
 
